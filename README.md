@@ -2,4 +2,4 @@
 
 Here is the Website Link:
 
-https://junaidansari1100.github.io/aunaturalproducts/
+ https://junaid-shabir.github.io/aunaturalproducts/
